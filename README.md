@@ -1,1 +1,1 @@
-# ML_AI_FinTech-Forecast-Nordic-Stock-and-Economic-Indicator
+This project integrates data science, financial modeling, machine learning, and web development into a single solution for analyzing and forecasting stock prices in the Nordic market. The combination of statistical models, deep learning (LSTM via TensorFlow), and interactive dashboards makes it a powerful tool for business intelligence and decision-making.
